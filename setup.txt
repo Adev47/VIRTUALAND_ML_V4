@@ -1,0 +1,13 @@
+[design]
+highlight_color = #00f6fd
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/F6STjuGW
+guide_link = https://
+website_link = https://the-virtualand.sellauth.com/
+
+[rounded_corners]
+main_widgets = 12
