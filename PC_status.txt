@@ -1,1 +1,2 @@
 Fix windows 11 1.0,online,1.00.01,https://gofile.io/d/7ekFk8
+Fix windows 11 2.0,online,1.00.01,https://gofile.io/d/GiUeh6
