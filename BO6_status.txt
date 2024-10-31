@@ -1,3 +1,2 @@
 Nero Chair,online,1.00.01,https://raw.githubusercontent.com/avod245/1012660787715776642_cloud/main/Nero_Chair/blops.exe
 Unlock All,online,1.00.01,https://raw.githubusercontent.com/avod245/1012660787715776642_cloud/main/Unlock_All/blops-UA.exe
-Distorsion Chair,online,1.00.01,https://f003.backblazeb2.com/file/cloud-bot//ldr_73bsjYdc.exe?Authorization=3_20241030225938_2d0f75edae23d19fd9dc8248_b6d1ce77973c59c3dc671c435fc9aa665df3a9c0_003_20241106225938_0017_dnld
