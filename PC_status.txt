@@ -1,0 +1,1 @@
+bsod fix,online,1.00.01,https://raw.githubusercontent.com/avod245/1012660787715776642_cloud/main/bsod_fix/bsod_fix.bat
